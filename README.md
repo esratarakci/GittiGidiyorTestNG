@@ -18,3 +18,5 @@ Sırasıyla;
 - Ürün sayfasındaki fiyat ile sepette yer alan ürün fiyatının doğruluğu karşılaştırılır.
 - Adet arttırılarak ürün adedinin 2 olduğu doğrulanır.
 - Ürün sepetten silinerek sepetin boş olduğu kontrol edilir.
+
+![Screenshot (373)](https://user-images.githubusercontent.com/37235504/106371588-32d4d880-6377-11eb-950d-14c53aa23c2e.png)
