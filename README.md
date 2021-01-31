@@ -1,5 +1,10 @@
 # GittiGidiyorTestNG
-TestNG,POM, Maven, Log4j kullanılarak hazırlanmıştır.
+
+username, password, environment, searchValue değerleri test başlamadan opsiyonel olarak değiştirilebilmektedir.
+
+Proje altyapısı paralel koşuma uygun olarak hazırlanmıştır.
+
+TestNG,POM, Maven, Log4j kullanılmıştır.
 
 Sırasıyla;
 - www.gittigidiyor.com sitesi açılır.
@@ -13,6 +18,3 @@ Sırasıyla;
 - Ürün sayfasındaki fiyat ile sepette yer alan ürün fiyatının doğruluğu karşılaştırılır.
 - Adet arttırılarak ürün adedinin 2 olduğu doğrulanır.
 - Ürün sepetten silinerek sepetin boş olduğu kontrol edilir.
-
-username, password, environment, searchValue değerleri test başlamadan opsiyonel olarak değiştirilebilmektedir.
-Proje altyapısı paralel koşuma uygun olarak hazırlanmıştır.
