@@ -4,7 +4,7 @@ username, password, environment, searchValue değerleri test başlamadan opsiyon
 
 Proje altyapısı paralel koşuma uygun olarak hazırlanmıştır.
 
-TestNG,POM, Maven, Log4j kullanılmıştır.
+TestNG,POM, Maven, Log4j, AssertJUnit kullanılmıştır.
 
 Sırasıyla;
 - www.gittigidiyor.com sitesi açılır.
